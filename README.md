@@ -89,4 +89,4 @@ Refresh the repository page in your browser to verify that the upload was succes
 ## Contributers
 
 * [Joel](https://github.com/jjoeldaniel/)
-* <name>
+* [Yuriko] ello!
