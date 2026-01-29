@@ -63,7 +63,7 @@ You can find your repository's URL by clicking the **Code** button and copying t
 
 Let's practice the standard development loop.
 
-* Task A - Edit the **README.md**. You can open a file with `code <file>`.
+* Task A - Edit the **README.md**. You can open a file with `code <file>`. Hello!
 * Task B - Create a new file and type your name. You can create a new file with the syntax: `touch <file>`
 
 ### Step 4 - Add & Commit
